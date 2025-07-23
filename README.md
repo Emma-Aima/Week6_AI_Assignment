@@ -134,5 +134,5 @@ MIT. Contributions welcome!
 #### Note: 
 Replace placeholder links (e.g., [TrashNet]) with actual dataset URLs before deployment.
 
-**For questions, open an Issue or contact @[Emma-Aima].**
+**For questions, open an Issue or contact @[https://github.com/Emma-Aima].**
 
